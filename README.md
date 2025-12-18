@@ -8,7 +8,7 @@
 <div align="center">
   
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=root%40agent-isha%3A~%24+whoami;%3E+Full+Stack+Developer+%7C+Competitive+Programmer;%3E+Debugging+Life+One+Commit+at+a+Time;%3E+System.out.println(%22Hello+World!%22)%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%3E+Full+Stack+Developer+%7C+Competitive+Programmer;%3E+Debugging+Life+One+Commit+at+a+Time;%3E+System.out.println(%22Hello+World!%22)%3B" alt="Typing SVG" />
 
 </div>
 
@@ -21,23 +21,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **CYBER_STATS.exe**
 
-<div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  █████╗  ██████╗ ███████╗███╗   ██╗████████╗    ██╗███████╗██╗  ║
-║ ██╔══██╗██╔════╝ ██╔════╝████╗  ██║╚══██╔══╝    ██║██╔════╝██║  ║
-║ ███████║██║  ███╗█████╗  ██╔██╗ ██║   ██║       ██║███████╗███████╗
-║ ██╔══██║██║   ██║██╔══╝  ██║╚██╗██║   ██║       ██║╚════██║██╔══██║
-║ ██║  ██║╚██████╔╝███████╗██║ ╚████║   ██║       ██║███████║██║  ██║
-║ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝       ╚═╝╚══════╝╚═╝  ╚═╝
-║                                                                   ║
-║         [✓] Status: Online    [✓] Mode: Hacker_Dev               ║
-║         [✓] Coffee: ∞         [✓] Bug_Fixes: Loading...          ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 <br>
 
