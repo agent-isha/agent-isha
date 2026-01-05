@@ -57,7 +57,7 @@
 class Developer:
     def __init__(self):
         self.username = "agent-isha"
-        self.role = "Full Stack Developer | Competitive Programmer"
+        self.role = " Full Stack Developer|Competitive Programmer"
         self.language_spoken = ["en_US", "hi_IN"]
         self.code = {
             "languages": ["C++", "JavaScript", "Python", "Java", "C"],
@@ -112,21 +112,7 @@ me = Developer()
 
 <br>
 
-## 💻 **[COMPETITIVE_CODING_STATS]**
 
-<div align="center">
-
-```ascii
-┌──────────────────────────────────────────────────────────────┐
-│  🏆 CODING PLATFORMS                                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  ⚡ LeetCode    → Solving Problems Daily                     │
-│  🔥 CodeChef    → Rating: Climbing Up                        │
-│  💪 CodeForces  → Competitive Spirit Activated               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
 
 <br>
 
