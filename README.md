@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Matrix Rain Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=300&section=header&text=AGENT-ISHA&fontSize=90&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Coding%20•%20Building%20•%20Breaking%20Barriers&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=300&section=header&text=ISHA&fontSize=90&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Coding%20•%20Building%20•%20Breaking%20Barriers&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
 <div align="center">
   
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%3E+Full+Stack+Developer+%7C+Competitive+Programmer;%3E+Debugging+Life+One+Commit+at+a+Time;%3E+System.out.println(%22Hello+World!%22)%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%3E+FFull+Stack+Developer+%7C+Competitive+Programmer;%3E+Debugging+Life+One+Commit+at+a+Time;%3E+System.out.println(%22Hello+World!%22)%3B" alt="Typing SVG" />
 
 </div>
 
@@ -19,16 +19,15 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **CYBER_STATS.exe**
 
 
 
-<br>
+
 
 <div align="center">
 
 <!-- GitHub Stats with Neon Glow -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agent-isha&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_radius=10"/>
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=agent-isha&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=7700FF&fire=FF00FF&currStreakLabel=00FF41&border_radius=10"/>
 
 </div>
@@ -37,12 +36,6 @@
 
 <div align="center">
 
-<!-- Top Languages with Cyber Theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agent-isha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&border_radius=10&langs_count=8"/>
-
-</div>
-
-<br>
 
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
